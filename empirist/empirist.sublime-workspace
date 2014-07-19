@@ -1,0 +1,1890 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input_fitnesses"
+			],
+			[
+				"ets",
+				"expanded_train_set"
+			],
+			[
+				"expand",
+				"expanded_input"
+			],
+			[
+				"origi",
+				"original_train_set"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"distra",
+				"distractors_per_input"
+			],
+			[
+				"test_data",
+				"test_dataset_size"
+			],
+			[
+				"Gaussia",
+				"GaussianDistractor"
+			],
+			[
+				"correct",
+				"correct_inputs"
+			],
+			[
+				"correct_",
+				"correct_inputs"
+			],
+			[
+				"predic",
+				"predictor_type"
+			],
+			[
+				"timeste",
+				"timesteps"
+			],
+			[
+				"bias",
+				"bias_fitnesses"
+			],
+			[
+				"new",
+				"new_inputs"
+			],
+			[
+				"other",
+				"other_end"
+			],
+			[
+				"edges",
+				"edges_nodes  (variable)"
+			],
+			[
+				"change",
+				"changeStart  (function)"
+			],
+			[
+				"changeEnd",
+				"changeEndPoint"
+			],
+			[
+				"new_end",
+				"new_end_point"
+			],
+			[
+				"used",
+				"used_inputs"
+			],
+			[
+				"input_",
+				"input_policy"
+			],
+			[
+				"output",
+				"output_policy"
+			],
+			[
+				"getEde",
+				"getEdgeObject  (function)"
+			],
+			[
+				"inflow",
+				"inflow_edges"
+			],
+			[
+				"getEdges",
+				"getEdgesClass"
+			],
+			[
+				"getEdge",
+				"getEdgeObject"
+			],
+			[
+				"outb",
+				"outbound"
+			],
+			[
+				"train",
+				"training_set  (variable)"
+			],
+			[
+				"random",
+				"random_input"
+			],
+			[
+				"outbound",
+				"outbound_edges"
+			],
+			[
+				"propaga",
+				"propagateInformation"
+			],
+			[
+				"inboun",
+				"inbound_edges"
+			],
+			[
+				"Predi",
+				"Predictors"
+			],
+			[
+				"plot",
+				"plotParameters  (function)"
+			],
+			[
+				"outbo",
+				"outbound_edges"
+			],
+			[
+				"as",
+				"attention_span"
+			],
+			[
+				"exper",
+				"expert1"
+			],
+			[
+				"addEge",
+				"addEdgeToTypes"
+			],
+			[
+				"if",
+				"id_from"
+			],
+			[
+				"expect",
+				"expectedValue"
+			],
+			[
+				"expec",
+				"expectedValue"
+			],
+			[
+				"create",
+				"create_filters"
+			],
+			[
+				"fitness",
+				"fitness_info"
+			],
+			[
+				"predict",
+				"predictorsError"
+			],
+			[
+				"dupStrea",
+				"dupStreamName"
+			],
+			[
+				"dupS",
+				"dupStreamName"
+			],
+			[
+				"dup",
+				"dupStreams"
+			],
+			[
+				"strea",
+				"streamsMapping"
+			],
+			[
+				"archive",
+				"archiveSizePlot"
+			],
+			[
+				"value",
+				"value_function"
+			],
+			[
+				"memory",
+				"memoryWriter"
+			],
+			[
+				"traning",
+				"training_error"
+			],
+			[
+				"traing",
+				"training_error"
+			],
+			[
+				"valueFunc",
+				"valueFunctionsError"
+			],
+			[
+				"ca",
+				"curveActive"
+			],
+			[
+				"stre",
+				"streamsMapping"
+			],
+			[
+				"memo",
+				"memory"
+			],
+			[
+				"Predic",
+				"PredictedActive"
+			],
+			[
+				"memor",
+				"memoryWriter"
+			],
+			[
+				"streams",
+				"streamsMapping"
+			],
+			[
+				"Report",
+				"ReportWriter"
+			],
+			[
+				"valueFunct",
+				"valueFunctionsError"
+			],
+			[
+				"bestPred",
+				"bestPredictorIndex"
+			],
+			[
+				"bestPre",
+				"bestPredictorIndex"
+			],
+			[
+				"pA",
+				"pAmaxLike_tp1"
+			],
+			[
+				"delete",
+				"deleteMember"
+			],
+			[
+				"NUM_",
+				"NUM_PREDICTORS"
+			],
+			[
+				"worst",
+				"worstPredictor"
+			],
+			[
+				"INPUTS",
+				"INPUTS_PREDICTOR"
+			],
+			[
+				"get",
+				"getMaxLikelihoodInput"
+			],
+			[
+				"popu",
+				"population"
+			],
+			[
+				"popula",
+				"population"
+			],
+			[
+				"Arh",
+				"ArchiveError"
+			],
+			[
+				"last",
+				"lastObservations"
+			],
+			[
+				"AE",
+				"ActiveError"
+			],
+			[
+				"PA",
+				"PredictedActive"
+			],
+			[
+				"Archive",
+				"ArchiveError"
+			],
+			[
+				"sliding",
+				"sliding_error"
+			],
+			[
+				"slidi",
+				"sliding_windows"
+			],
+			[
+				"Active",
+				"ActiveError"
+			],
+			[
+				"top",
+				"top_function_plot"
+			],
+			[
+				"pyq",
+				"pyqtgraph"
+			],
+			[
+				"parameters",
+				"parametersMapping"
+			],
+			[
+				"stream",
+				"streamName"
+			],
+			[
+				"outpu",
+				"outputSet"
+			],
+			[
+				"or",
+				"orientation"
+			],
+			[
+				"class",
+				"classMembers"
+			],
+			[
+				"popul",
+				"populationSize"
+			],
+			[
+				"applyT",
+				"applyTrainMask"
+			],
+			[
+				"valueFunctionMode",
+				"valueFunctionModelArchive"
+			],
+			[
+				"vf",
+				"valueFunctionModelActive"
+			],
+			[
+				"numData",
+				"numDataPoints"
+			],
+			[
+				"predicto",
+				"predictors"
+			],
+			[
+				"valueFunction",
+				"valueFunctionModelActive"
+			],
+			[
+				"converg",
+				"convergedClasses"
+			],
+			[
+				"wp",
+				"writePredictors"
+			],
+			[
+				"write",
+				"writerow"
+			],
+			[
+				"pick",
+				"pickPredictorName"
+			],
+			[
+				"NUM",
+				"NUM_COMPRESSORS"
+			],
+			[
+				"pred",
+				"predictor"
+			],
+			[
+				"na",
+				"nameTemplate"
+			],
+			[
+				"first",
+				"firstInput"
+			],
+			[
+				"inpt",
+				"inputMask"
+			],
+			[
+				"document",
+				"document_1"
+			],
+			[
+				"optional",
+				"optional_documents"
+			],
+			[
+				"inclu",
+				"inclusive_terms"
+			],
+			[
+				"reslt",
+				"result_set"
+			],
+			[
+				"result",
+				"result_set"
+			],
+			[
+				"documen",
+				"document_class"
+			],
+			[
+				"opt",
+				"optional_terms"
+			],
+			[
+				"query",
+				"query_document"
+			],
+			[
+				"incl",
+				"inclusive_terms"
+			],
+			[
+				"tok",
+				"__tokenizer"
+			],
+			[
+				"prepare",
+				"prepare_source"
+			],
+			[
+				"docume",
+				"document_3"
+			],
+			[
+				"doc",
+				"document_2"
+			],
+			[
+				"tokenized",
+				"tokenized_source"
+			],
+			[
+				"conver",
+				"converted_tokenized_text"
+			],
+			[
+				"artic",
+				"article_class_remove_url"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"articl",
+				"article_class_custom_conversion"
+			],
+			[
+				"article",
+				"article_class_custom_filter"
+			],
+			[
+				"av",
+				"avprogress_statsfile"
+			],
+			[
+				"deacti",
+				"deactivated"
+			],
+			[
+				"hidden",
+				"hidden_neurons"
+			],
+			[
+				"new_",
+				"new_net_params"
+			],
+			[
+				"progre",
+				"progress_history"
+			],
+			[
+				"progress",
+				"progress_statsfile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "experiment.py",
+			"settings":
+			{
+				"buffer_size": 3558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reporting.py",
+			"settings":
+			{
+				"buffer_size": 6556,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 264.0,
+		"selected_items":
+		[
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"m",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inspack",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Ruby"
+			],
+			[
+				"form",
+				"Format: Ruby"
+			],
+			[
+				"f",
+				"Format: Ruby"
+			],
+			[
+				"forma",
+				"Format: Ruby"
+			],
+			[
+				"format",
+				"Format: Ruby"
+			],
+			[
+				"fo",
+				"Format: Ruby"
+			],
+			[
+				"ru",
+				"Format: Ruby"
+			],
+			[
+				"FORM",
+				"Format: Ruby"
+			],
+			[
+				"ruby",
+				"Format: Ruby"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/dissertation.sublime-project",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/test_func.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/mckey_glass.dat",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/FunctionalInputDetecting-CorrelatedNoise-53b2ebb52631ef4edb2f401b-default.csv",
+		"/home/velvetbaldmime/Downloads/SantaFeA.dat",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/FunctionalInputDetecting-CorrelatedNoise-53b2c6fd2631ef3f11f37ea8-expanded_test_set.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/TestPredictors.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/FunctionalInputDetecting-CorrelatedNoise-53b2bc0c2631ef3a3b169f60-default.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/FunctionalInputDetecting-CorrelatedNoise-53b2bb822631ef39c1ba8e8f-default.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/EmpiristWebManager.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/trials_list.tpl",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/experiments_list.tpl",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/namespaces_list.tpl",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/base.tpl",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/Mess-TestPredictors-53b1db1b2631ef7cfde440b4-default.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/Mess-TestPredictors-53b1d2952631ef6da52c2596-correct_input.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/TestMemory.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/TestDisabledInput.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/TestPredictors_runs1_predictor_typenn_hidden_neurons5_state_size3_test_size100_timesteps1000.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/TestPredictors_runs1_predictor_typenn_hidden_neurons5_state_size3_test_size100_timesteps100__{stream}.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/TestPredictors_timesteps1000_runs1_hidden_neurons5_predictor_typenn_test_size100.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/TestPredictors_timesteps100_runs1_hidden_neurons5_predictor_typenn_test_size100.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/backup/TestPredictors_timesteps100_runs1_hidden_neurons5_predictor_typeols_test_size100.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/data/TestPredictors_timesteps100_runs1_hidden_neurons5_predictor_typeols_test_size100.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/tests/backup/predictor.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/graphmemory.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/test_predictors.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/test_memory.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/experimenter/TestPredictors_timesteps100_runs1_hidden_neurons5_predictor_typeols_test_size100.csv",
+		"/home/velvetbaldmime/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/func_cos_sum_ols_r10_tst100_tm10000_.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/predictor.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/multi_layer_perceptron.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/second_squared_nn.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/cos_sum_nn.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/cos_sum_ols.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/second_squared_ols.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/cos_second_ols.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/cos_sum_osl.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/sum_osl.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/data/cos_first_osl.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/net/graphmemory/osl.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/graphmemory.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/test_memory.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/predictor.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/osl.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/infograph.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/graph1.dot",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/graph2.dot",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/merge.sh",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/graph00021.png",
+		"/home/velvetbaldmime/mackey_glass.csv",
+		"/home/velvetbaldmime/.cache/.fr-SKWSHJ/mackeyglass.m",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/graphmemory/graph.dot",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/sensor_data.do_not_delete",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/spinning_epuck.py",
+		"/home/velvetbaldmime/.config/sublime-text-2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/net_of_experts.py",
+		"/home/velvetbaldmime/Dropbox/realtime.txt",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/specialisation.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/predictors.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/archive_size.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/reporting.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/neuralnet.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/test.svg",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/experts.py",
+		"/home/velvetbaldmime/Downloads/pycharm-community-3.1.1/bin/pycharm.sh",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/new_net.py",
+		"/media/velvetbaldmime/08E27E9FE27E9124/Users/velvetbaldmime/Desktop/nn.rb",
+		"/home/velvetbaldmime/parser.rb",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/predictor.py",
+		"/home/velvetbaldmime/has_subhash.rb",
+		"/home/velvetbaldmime/each_slice.rb",
+		"/home/velvetbaldmime/harmonica.rb",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/test_multiproc.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/value_function.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/multi_layer_perceptron.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/n.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/test_reporting.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/test_live.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/tt.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/compressor.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/osl.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/archive.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/predictors1000.txt",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/archive1000.txt",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/archive10000.txt",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/predictors10000.txt",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/archive18750.txt",
+		"/home/velvetbaldmime/.cache/.fr-7Mo6hs/README",
+		"/media/velvetbaldmime/08E27E9FE27E9124/Антон!.txt",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/test.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/n_of_e_min/archive12250.txt",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/document.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/spec/shingler_spec.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/spec/document_spec.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/tools.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/test.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/spec/collection_spec.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/collection.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/tokenizers.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/weighting.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/word.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/inverted_index.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/spec/docset_spec.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/text_filters.rb",
+		"/home/velvetbaldmime/projects/golden_retriever/lib/golden_retriever/text_conversions.rb",
+		"/home/velvetbaldmime/Dropbox/IR/sochisearch/config/mongoid.yml",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate500_1_predictors.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate_predictors.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate_progress.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/single_ffnn.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/generate_world_data.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/functional_world.py",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/silent_predictor.py",
+		"/home/velvetbaldmime/.cache/.fr-fu85we/params/params_evolution_just_crossover_100_features",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/paper/SAB2014Nguyen/SAB2014Nguyen.tex",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/paper/SAB2014Nguyen/sample.tex",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate100_predictors.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate500_average_progress.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate500_predictors.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/progresses_deact.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/deactivate_average_progress.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/func_world/tst300_replication_predictors.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/progresses2.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/progresses1.csv",
+		"/home/velvetbaldmime/Dropbox/MSc Project/cumule/test.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.py",
+			"*.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"test",
+			"^\\s+",
+			"function",
+			"input",
+			"test_size",
+			"experiment",
+			"namespace",
+			"inputs",
+			"2",
+			"i",
+			"g",
+			"convenient over",
+			"link",
+			"list",
+			"table",
+			"predictor",
+			"t",
+			"i",
+			"bias(e|)",
+			"[^\\w]",
+			"test",
+			"MLP",
+			"hiddenUnits",
+			"predictor",
+			"desired_output",
+			"value",
+			"new_inputs",
+			"input",
+			"inflow_edges",
+			"Before",
+			"addEdge",
+			"getOtherEnd",
+			"new_end",
+			"used",
+			"input",
+			"plot",
+			"out",
+			"getEdge",
+			"class",
+			"s",
+			"getEdges",
+			"OnlineSequentialLeastSquares",
+			"i",
+			"to",
+			"_from",
+			"circo",
+			"input",
+			"p",
+			"getFrom",
+			"getEdgeObject",
+			"in",
+			"edges",
+			"\"Input",
+			"label",
+			"if forward:\n			# 	direction=\"inbound\"\n			# else:\n			# 	direction=\"outbound\"",
+			"inbound_edges",
+			"coloring",
+			"j",
+			"i",
+			"inputs",
+			"inputI",
+			"outSize",
+			"inSize",
+			"Types",
+			"node",
+			"max_id",
+			"types",
+			"node",
+			"Predictor(",
+			"Predictor",
+			"allocate",
+			"generation",
+			"1",
+			"predictors_num",
+			"NUM_PREDICTORS",
+			"NUM_COMPRESSORS",
+			"http://.*(1|2)pp\\.pdf",
+			"http://.*forcedownload=1.*?",
+			"\"",
+			"\"(http://.*pluginfile.*)\"",
+			"'",
+			"'http://.*?'",
+			"similar?",
+			"Classes",
+			"^\\s*print",
+			"print",
+			"values",
+			"fitness_info",
+			"append",
+			"minBy",
+			"fitness",
+			"fitnessPlot",
+			"Archive",
+			"evolvePredictors",
+			"converge",
+			"resetZeroFitnessPredictors",
+			"itIsTrainingTime",
+			"TRAINING_PERIOD",
+			"itIsTrainingTime",
+			"speed",
+			"evolvePred",
+			"streamName",
+			"valueFunctionPlot",
+			"curve",
+			"archive",
+			"valueFunctionPlot",
+			"p6",
+			"epuck",
+			"writePredictors",
+			"itIsEv",
+			"pAmaxLike_t",
+			"pA_t",
+			"timestep",
+			"s_tp1",
+			"pAmaxLike_tp1",
+			"vA_tp1",
+			"c_tp1",
+			"pA_tp1",
+			"p_tp1",
+			"c_t",
+			"c_tp1",
+			"c_t",
+			"p_t",
+			"v_t",
+			"a_tp1",
+			"a_t",
+			"A_t",
+			"a_t"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"train",
+			"",
+			"trial",
+			"experiment",
+			"self.options.state_size",
+			"convention over",
+			"input",
+			"_",
+			"output",
+			"After",
+			"output",
+			"end",
+			"start",
+			"dot",
+			"out",
+			"\"I",
+			"groups",
+			"edge",
+			"timestep",
+			"k_a",
+			"2",
+			"",
+			"has_subhash?",
+			"ActiveClasses",
+			"Predictors",
+			"stream",
+			"valueFunctionPlotFull",
+			"train",
+			"active",
+			"self.pAmaxLike_t",
+			"self.pA_t",
+			"self.timestep",
+			"self.s_tp1",
+			"self.pAmaxLike_tp1",
+			"self.vA_tp1",
+			"self.c_tp1",
+			"self.pA_tp1",
+			"self.p_tp1",
+			"self.a_t",
+			"self.a_it",
+			", ",
+			"member",
+			"",
+			"min",
+			"archive",
+			" ",
+			"\"\\1\",",
+			"\",\"",
+			"\"\\1\"",
+			"l",
+			"result_set",
+			"transliterate_",
+			"filter_words",
+			"words",
+			"get_language_conversion",
+			" ",
+			"\\t",
+			"s",
+			"cp",
+			"epochs",
+			"weight_decay",
+			"STATS_NAME",
+			"\\1,",
+			"]\\1",
+			"]",
+			"[",
+			"pl",
+			"'",
+			"sdp1",
+			"'",
+			"AverageMinError",
+			"sdp1",
+			"'",
+			"old_state",
+			"BilliardWorld",
+			"WORLD_ACTION_SIZE",
+			"WORLD_STATE_SIZE",
+			"WORLD_ACTION_SIZE",
+			"WORLD_STATE_SIZE",
+			"5",
+			"World.state_size",
+			"World.action_size",
+			"World.state_size",
+			"newLoser",
+			"self.inSize",
+			"\\n",
+			"",
+			",",
+			"ArrayOfFFNNs",
+			"self.world",
+			", ",
+			"FLAGS.num_predictors",
+			"FLAGS.\\1",
+			"FLAGS['learning_rate']",
+			"FLAGS['test_set_length']",
+			"FLAGS",
+			"s_tp1",
+			"s_t",
+			"LEARNING_RATE",
+			"minErrors",
+			"",
+			"subplot(5,",
+			"subplot(5",
+			"_",
+			"\\1self.\\2 = ",
+			"",
+			"dn.TIMESTEPS",
+			"dn.STEPSIZE",
+			"AgeHistory",
+			"History",
+			"AgeHistory",
+			"\\n",
+			",",
+			"\"\\1\",",
+			"employee",
+			"(airline_id, name",
+			"(airline_id, ",
+			"_seq_trig",
+			"TRIGGER",
+			"TRIGGER\nTRIGGER",
+			"booking_passenger",
+			"pilot",
+			"employee",
+			"journey",
+			"airport",
+			"plane",
+			"airline",
+			"flight"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "experiment.py",
+					"settings":
+					{
+						"buffer_size": 3558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2979,
+								2311
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1173.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "reporting.py",
+					"settings":
+					{
+						"buffer_size": 6556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 278.0
+	},
+	"output.markdown":
+	{
+		"height": 75.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"repor",
+				"reporting.py"
+			],
+			[
+				"",
+				"experiment.py"
+			],
+			[
+				"diss",
+				"dissertation.sublime-project"
+			],
+			[
+				"test",
+				"TestDisabledInput.py"
+			],
+			[
+				"53b2ebb52631ef4edb2f401b",
+				"data/FunctionalInputDetecting-CorrelatedNoise-53b2ebb52631ef4edb2f401b-default.csv"
+			],
+			[
+				"mck",
+				"mckey_glass.dat"
+			],
+			[
+				"expand",
+				"data/FunctionalInputDetecting-CorrelatedNoise-53b2c6fd2631ef3f11f37ea8-expanded_test_set.csv"
+			],
+			[
+				"corre",
+				"data/FunctionalInputDetecting-CorrelatedNoise-53b2bc0c2631ef3a3b169f60-default.csv"
+			],
+			[
+				"correl",
+				"data/FunctionalInputDetecting-CorrelatedNoise-53b2bb822631ef39c1ba8e8f-default.csv"
+			],
+			[
+				"tesp",
+				"TestPredictors.py"
+			],
+			[
+				"testpred",
+				"TestPredictors.py"
+			],
+			[
+				"exp",
+				"experiments_list.tpl"
+			],
+			[
+				"name",
+				"namespaces_list.tpl"
+			],
+			[
+				"defaul",
+				"data/Mess-TestPredictors-53b1db1b2631ef7cfde440b4-default.csv"
+			],
+			[
+				"tes",
+				"data/Mess-TestPredictors-53b1d2952631ef6da52c2596-correct_input.csv"
+			],
+			[
+				"stream",
+				"data/TestPredictors_runs1_predictor_typenn_hidden_neurons5_state_size3_test_size100_timesteps100__{stream}.csv"
+			],
+			[
+				"memo",
+				"TestMemory.py"
+			],
+			[
+				"testpre",
+				"TestPredictors.py"
+			],
+			[
+				"predic",
+				"backup/predictor.py"
+			],
+			[
+				"pred",
+				"predictor.py"
+			],
+			[
+				"tes_memo",
+				"test_memory.py"
+			],
+			[
+				"graph",
+				"graphmemory.py"
+			],
+			[
+				"test_",
+				"test_memory.py"
+			],
+			[
+				"exper",
+				"experiment.py"
+			],
+			[
+				"t",
+				"TestPredictors_timesteps100_runs1_hidden_neurons5_predictor_typeols_test_size100.csv"
+			],
+			[
+				"md",
+				"README.md"
+			],
+			[
+				"cos",
+				"data/func_cos_sum_ols_r10_tst100_tm10000_.csv"
+			],
+			[
+				"cs",
+				"data/cos_sum_ols.csv"
+			],
+			[
+				"secon",
+				"data/second_squared_ols.csv"
+			],
+			[
+				"second",
+				"data/second_squared_ols.csv"
+			],
+			[
+				"cos_sum",
+				"data/cos_sum_ols.csv"
+			],
+			[
+				"nn",
+				"data/second_squared_nn.csv"
+			],
+			[
+				"mlp",
+				"multi_layer_perceptron.py"
+			],
+			[
+				"cos_",
+				"data/cos_sum_osl.csv"
+			],
+			[
+				"sos",
+				"data/sum_osl.csv"
+			],
+			[
+				"data/",
+				"data/cos_first_osl.csv"
+			],
+			[
+				"test_pred",
+				"test_predictors.py"
+			],
+			[
+				"osl",
+				"osl.py"
+			],
+			[
+				"predi",
+				"predictor.py"
+			],
+			[
+				"infogr",
+				"infograph.py"
+			],
+			[
+				"info",
+				"infograph.py"
+			],
+			[
+				"merge",
+				"merge.sh"
+			],
+			[
+				"graph2",
+				"graph2.dot"
+			],
+			[
+				"repl",
+				"*REPL* [python]"
+			],
+			[
+				"do",
+				"sensor_data.do_not_delete"
+			],
+			[
+				"epuc",
+				"spinning_epuck.py"
+			],
+			[
+				"net",
+				"new_net.py"
+			],
+			[
+				"neural",
+				"neuralnet.py"
+			],
+			[
+				"speci",
+				"specialisation.csv"
+			],
+			[
+				"valu",
+				"value_function.csv"
+			],
+			[
+				"specia",
+				"specialisation.csv"
+			],
+			[
+				"epuck",
+				"spinning_epuck.py"
+			],
+			[
+				"archive",
+				"archive_size.csv"
+			],
+			[
+				"report",
+				"reporting.py"
+			],
+			[
+				"neur",
+				"neuralnet.py"
+			],
+			[
+				"neura",
+				"neuralnet.py"
+			],
+			[
+				"multi",
+				"multi_layer_perceptron.py"
+			],
+			[
+				"re",
+				"reporting.py"
+			],
+			[
+				"tt",
+				"tt.py"
+			],
+			[
+				"n",
+				"n.py"
+			],
+			[
+				"pcsv",
+				"predictors.csv"
+			],
+			[
+				"compre",
+				"compressor.py"
+			],
+			[
+				"val",
+				"value_function.csv"
+			],
+			[
+				"predo",
+				"predictors.csv"
+			],
+			[
+				"pre",
+				"predictor.py"
+			],
+			[
+				"value",
+				"value_function.csv"
+			],
+			[
+				"os",
+				"osl.py"
+			],
+			[
+				"arcsv",
+				"archive.csv"
+			],
+			[
+				"predictors.",
+				"predictors.csv"
+			],
+			[
+				"predictor.p",
+				"predictor.py"
+			],
+			[
+				"predictors10000",
+				"predictors10000.txt"
+			],
+			[
+				"archive100",
+				"archive1000.txt"
+			],
+			[
+				"neu",
+				"neuralnet.py"
+			],
+			[
+				"sp",
+				"spinning_epuck.py"
+			],
+			[
+				"comre",
+				"compressor.py"
+			],
+			[
+				"arch",
+				"archive12250.txt"
+			],
+			[
+				"arc",
+				"archive12250.txt"
+			],
+			[
+				"comp",
+				"compressor.py"
+			],
+			[
+				"ne",
+				"net_of_experts.py"
+			],
+			[
+				"weig",
+				"lib/golden_retriever/weighting.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"shing",
+				"spec/shingler_spec.rb"
+			],
+			[
+				"tokenizer",
+				"lib/golden_retriever/tokenizers.rb"
+			],
+			[
+				"docum",
+				"spec/document_spec.rb"
+			],
+			[
+				"collec",
+				"spec/collection_spec.rb"
+			],
+			[
+				"doc",
+				"lib/golden_retriever/document.rb"
+			],
+			[
+				"shingl",
+				"spec/shingler_spec.rb"
+			],
+			[
+				"colle",
+				"lib/golden_retriever/collection.rb"
+			],
+			[
+				"col",
+				"lib/golden_retriever/collection.rb"
+			],
+			[
+				"coll",
+				"lib/golden_retriever/collection.rb"
+			],
+			[
+				"golde",
+				"lib/golden_retriever.rb"
+			],
+			[
+				"we",
+				"lib/golden_retriever/weighting.rb"
+			],
+			[
+				"weigh",
+				"lib/golden_retriever/weighting.rb"
+			],
+			[
+				"word",
+				"lib/golden_retriever/word.rb"
+			],
+			[
+				"docume",
+				"lib/golden_retriever/document.rb"
+			],
+			[
+				"token",
+				"lib/golden_retriever/tokenizers.rb"
+			],
+			[
+				"docu",
+				"lib/golden_retriever/document.rb"
+			],
+			[
+				"docs",
+				"spec/document_spec.rb"
+			],
+			[
+				"ds",
+				"spec/docset_spec.rb"
+			],
+			[
+				"text_",
+				"lib/golden_retriever/text_filters.rb"
+			],
+			[
+				"document",
+				"lib/golden_retriever/document.rb"
+			],
+			[
+				"conver",
+				"lib/golden_retriever/text_conversions.rb"
+			],
+			[
+				"index",
+				"lib/tasks/indexing.rake"
+			],
+			[
+				"tweet",
+				"app/models/tweet.rb"
+			],
+			[
+				"spec_h",
+				"spec/spec_helper.rb"
+			],
+			[
+				"stemme",
+				"lib/golden_retriever/stemmers.rb"
+			],
+			[
+				"stemm",
+				"lib/golden_retriever/stemmers.rb"
+			],
+			[
+				"twee",
+				"app/models/tweet.rb"
+			],
+			[
+				"show",
+				"app/views/documents/show.html.erb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"mon",
+				"config/mongoid.yml"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"boot",
+				"config/boot.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"tex",
+				"paper/SAB2014Nguyen/SAB2014Nguyen.tex"
+			],
+			[
+				"d51",
+				"func_world/deactivate500_1_predictors.csv"
+			],
+			[
+				"d100",
+				"func_world/deactivate100_predictors.csv"
+			],
+			[
+				"d5",
+				"func_world/deactivate500_predictors.csv"
+			],
+			[
+				"deactivate5",
+				"func_world/deactivate500_average_progress.csv"
+			],
+			[
+				"deactivate_",
+				"func_world/deactivate_predictors.csv"
+			],
+			[
+				"deactiv",
+				"func_world/deactivate_predictors.csv"
+			],
+			[
+				"average",
+				"func_world/deactivate_average_progress.csv"
+			],
+			[
+				"deac",
+				"func_world/deactivate_progress.csv"
+			],
+			[
+				"progress_",
+				"progresses_deact.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/velvetbaldmime/projects/nptv/cas-server.sublime-project"
+			],
+			[
+				"er",
+				"/home/velvetbaldmime/Dropbox/MSc Project/RubyNN/empirist-ruby.sublime-project"
+			],
+			[
+				"emp",
+				"/home/velvetbaldmime/Dropbox/MSc Project/RubyNN/empirist-ruby.sublime-project"
+			],
+			[
+				"empirist",
+				"/home/velvetbaldmime/Dropbox/MSc Project/RubyNN/empirist-ruby.sublime-project"
+			],
+			[
+				"ruby",
+				"/home/velvetbaldmime/Dropbox/MSc Project/RubyNN/rubynn.sublime-project"
+			],
+			[
+				"diss",
+				"/home/velvetbaldmime/Dropbox/MSc Project/tests/dissertation.sublime-project"
+			],
+			[
+				"rubynn",
+				"/home/velvetbaldmime/Dropbox/MSc Project/RubyNN/rubynn.sublime-project"
+			],
+			[
+				"ds",
+				"/home/velvetbaldmime/Dropbox/MSc Project/tests/dissertation.sublime-project"
+			],
+			[
+				"gm",
+				"/home/velvetbaldmime/Dropbox/MSc Project/graphmemory/graphmemory/graphmemory.sublime-project"
+			],
+			[
+				"next",
+				"/home/velvetbaldmime/projects/nptv/userbase-next.sublime-project"
+			],
+			[
+				"userba",
+				"/home/velvetbaldmime/projects/nptv/userbase-next.sublime-project"
+			],
+			[
+				"face",
+				"/home/velvetbaldmime/projects/nptv/face.sublime-project"
+			],
+			[
+				"admin",
+				"/home/velvetbaldmime/projects/nptv/userbase_admin.sublime-project"
+			],
+			[
+				"nxt",
+				"/home/velvetbaldmime/projects/nptv/userbase-next.sublime-project"
+			],
+			[
+				"data",
+				"/home/velvetbaldmime/projects/nptv/userbase_data.sublime-project"
+			],
+			[
+				"user",
+				"/home/velvetbaldmime/projects/nptv/userbase_admin.sublime-project"
+			],
+			[
+				"client",
+				"/home/velvetbaldmime/projects/nptv/userbase-client.sublime-project"
+			],
+			[
+				"userbase-client",
+				"/home/velvetbaldmime/projects/nptv/userbase-client.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
