@@ -130,6 +130,9 @@ class Report():
 			self.writers.append(writer)
 		pass
 
+	def streamsNames(self):
+		return self.streams.keys()
+
 	def addParameter(self, param):
 		self.parameters[param.name]=param
 		[w.addParameter(param) for w in self.writers]

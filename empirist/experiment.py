@@ -1,19 +1,13 @@
-import md5
 import argparse
 import reporting
-
-from pymongo import MongoClient
 import datetime
+import agent
 
 #distinguish between experiment and observation! E.g. experiment name depends on the number of runs, and observation includes the number of current run!
  
 class Experiment:
-	client = MongoClient('mongodb://localhost:27017/')
-	db=client.empirist
-	trials=db.trials
-
-	def __init__(self, description="", parse=True):
-		self.parser=argparse.ArgumentParser(prog=self.__class__.__name__+".py", description=description)
+	def __init__(self, agent_str="localhost:5050", parse=True):
+		self.parser=argparse.ArgumentParser(prog=self.__class__.__name__+".py")
 		self.add_run=True
 		self.runs=1
 		self.options={}
@@ -21,9 +15,13 @@ class Experiment:
 		self.report=reporting.Report()
 		self.hashing=False
 		self.streams={}
-		self.data_folder="./data"
-		self.namespace="Mess"
+		self.project="Mess"
 		self.trial_name=None
+
+		host,port=agent_str.split(":")
+		self.agent=agent.Agent(host,port)
+		self.data_folder=self.agent.local_cache_folder
+
 
 
 		self.configure()
@@ -39,10 +37,8 @@ class Experiment:
 
 		self.options=self.parser.parse_args()
 
-		if len(self.streams)>1:
-			self.report.addWriter(reporting.CSVWriter(self.data_folder+"/"+self.get_trial_name()+"-{stream}.csv"))
-		else:
-			self.report.addWriter(reporting.CSVWriter(self.data_folder+"/"+self.get_trial_name()+".csv"))
+
+		self.report.addWriter(reporting.CSVWriter(self.data_folder+"/"+self.get_trial_name()+"-{stream}.csv"))
 
 		for k in self.streams:
 			self.report.addStream(k, self.streams[k])
@@ -80,35 +76,28 @@ class Experiment:
 			self.pre_experiment() 
 			self.experiment()
 			self.post_experiment() 
-
+ 
 		self.report.finish()
-		self.set_success() 
-
-	def set_success(self):
-		Experiment.trials.update({"_id":self.trial_id},{"$set":{"__successful":1}})
-
+		self.agent.set_success() 
+		self.agent.upload_data(self.report.streamsNames())    
+ 
 	def get_trial_name(self):
 		if self.trial_name==None:
-			# optstring=[]
-			# hs=vars(self.options)
-			# for k in hs:
-			# 	optstring.append(k+str(hs[k]))
-			# return self.namespae+"-"+self.experiment_class+"_"+"_".join(optstring)
 			options=vars(self.options)
-			options['__timestamp']=datetime.datetime.utcnow()
-			options['__namespace']=self.namespace
+			options['__timestamp']=str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S %z"))
+			options['__project']=self.project
 			options['__experiment']=self.experiment_class
 
 
-			self.trial_id=Experiment.trials.insert(options)
-			self.trial_name=self.namespace+"-"+self.experiment_class+"-"+str(self.trial_id)
+			self.trial_id=self.agent.create_trial(options)
+			self.trial_name=str(self.trial_id)
 		return self.trial_name
 
-	@classmethod
-	def get_trials(cls, namespace, experiment, params):
-		s={'__namespace':namespace, '__experiment':experiment, '__successful':1}
-		s.update(params)
-		return Experiment.trials.find_one(s)
+	# @classmethod
+	# def get_trials(cls, project, experiment, params):
+	# 	s={'__project':project, '__experiment':experiment, '__successful':1}
+	# 	s.update(params)
+	# 	return Experiment.trials.find_one(s)
 
 
 	def add_parameters(self, params):
